@@ -1,5 +1,8 @@
 # HTML-CSS-JavaScript-Mini-Projects
 
+## Responsive Registration Form
+![Responsive Registration Form](./Responsive%20Registration%20Form/Register.png)
+
 ## Limit Input Characters
 ![Limit Input Characters](./Limit%20Input%20Characters/Limit%20Input%20Characters.gif)
 
