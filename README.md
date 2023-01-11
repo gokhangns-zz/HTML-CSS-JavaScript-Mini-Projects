@@ -1,7 +1,7 @@
 # HTML-CSS-JavaScript-Mini-Projects
 
 ## Download Any File
-![Download Any File with Vanilla JavaScript](./Download%20Any%20File%20with%20Vanilla%20JavaScript/file.png)
+![Download Any File](./Download%20Any%20File/file.png)
 
 ## Responsive Registration Form
 ![Responsive Registration Form](./Responsive%20Registration%20Form/Register.png)
