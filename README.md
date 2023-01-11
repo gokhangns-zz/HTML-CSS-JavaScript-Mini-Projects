@@ -1,5 +1,8 @@
 # HTML-CSS-JavaScript-Mini-Projects
 
+## Download Any File
+![Download Any File with Vanilla JavaScript](./Download%20Any%20File%20with%20Vanilla%20JavaScript/file.png)
+
 ## Responsive Registration Form
 ![Responsive Registration Form](./Responsive%20Registration%20Form/Register.png)
 
@@ -11,6 +14,6 @@
 
 ## Responsive Coming Soon Page
 ![Responsive Coming Soon Page](/Responsive%20Coming%20Soon%20Page/coming%20soon.gif)
-<br/>
-## Circular Progress Bar <br/>
+
+## Circular Progress Bar
 ![Circular Progress Bar](/Circular%20Progress%20Bar/Circular%20Progress%20Bar.gif)
