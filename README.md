@@ -1,5 +1,8 @@
 # HTML-CSS-JavaScript-Mini-Projects
 
+## Alarm Clock
+![Alarm Clock](./Build%20A%20Simple%20Alarm%20Clock/setAlarm.png)
+
 ## Dynamic Calender
 ![Dynamic Calender](./Dynamic%20Calendar/Dynamic%20Calendar.png)
 
