@@ -1,5 +1,8 @@
 # HTML-CSS-JavaScript-Mini-Projects
 
+## Language Translator
+![Language Translator](./Language%20Translator/languageTranslator.gif)
+
 ## Alarm Clock
 ![Alarm Clock](./Build%20A%20Simple%20Alarm%20Clock/setAlarm.png)
 
