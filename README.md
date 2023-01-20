@@ -1,5 +1,7 @@
 # HTML-CSS-JavaScript-Mini-Projects
 
+## Password Generator
+![Password Generator](./Password%20Generator/Untitled.gif)
 ## Language Translator
 ![Language Translator](./Language%20Translator/languageTranslator.gif)
 
