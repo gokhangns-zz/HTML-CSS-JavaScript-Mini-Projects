@@ -1,5 +1,8 @@
 # HTML-CSS-JavaScript-Mini-Projects
 
+## Take Screenshot
+![Take Screenshot](./Take%20Screenshots/Untitled1.gif)
+
 ## Password Generator
 ![Password Generator](./Password%20Generator/Untitled.gif)
 ## Language Translator
