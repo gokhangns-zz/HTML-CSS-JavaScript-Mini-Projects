@@ -1,10 +1,14 @@
 # HTML-CSS-JavaScript-Mini-Projects
 
+## Todo List App
+![Todo List App](./Todo%20List%20App/Todo.gif)
+
 ## Take Screenshot
 ![Take Screenshot](./Take%20Screenshots/Untitled1.gif)
 
 ## Password Generator
 ![Password Generator](./Password%20Generator/Untitled.gif)
+
 ## Language Translator
 ![Language Translator](./Language%20Translator/languageTranslator.gif)
 
