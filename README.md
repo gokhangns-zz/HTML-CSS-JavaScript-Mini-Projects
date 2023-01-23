@@ -1,4 +1,7 @@
-# HTML-CSS-JavaScript-Mini-Projects
+# HTML-CSS-JavaScript-Mini-Project
+
+## Basic Calculator
+![Basic Calculator](./Basic%20Calculator/2.png)
 
 ## Todo List App
 ![Todo List App](./Todo%20List%20App/Todo.gif)
