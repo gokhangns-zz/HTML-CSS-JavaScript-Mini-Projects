@@ -1,5 +1,8 @@
 # HTML-CSS-JavaScript-Mini-Project
 
+## Video Player
+![Video Player](./Video%20Player/video%20player.png)
+
 ## Basic Calculator
 ![Basic Calculator](./Basic%20Calculator/2.png)
 
