@@ -1,5 +1,8 @@
 # HTML-CSS-JavaScript-Mini-Project
 
+## QR Code Generator
+![QR Code Generator](./QR%20Code%20Generator/QR.png)
+
 ## Video Player
 ![Video Player](./Video%20Player/video%20player.png)
 
