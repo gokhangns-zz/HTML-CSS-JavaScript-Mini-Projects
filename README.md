@@ -1,5 +1,8 @@
 # HTML-CSS-JavaScript-Mini-Project
 
+## Analog Clock
+![Analog Clock](./Analog%20Clock/clock.png)
+
 ## QR Code Generator
 ![QR Code Generator](./QR%20Code%20Generator/QR.png)
 
