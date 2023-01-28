@@ -1,5 +1,8 @@
 # HTML-CSS-JavaScript-Mini-Project
 
+## Price Range
+![Price Range](./Price%20Range/Range.png)
+
 ## Form 
 ![Form](./Form/form.png)
 
