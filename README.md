@@ -1,5 +1,8 @@
 # HTML-CSS-JavaScript-Mini-Project
 
+## Search Bar
+![Search Bar](./Search%20Bar/Seacrh.gif)
+
 ## Price Range
 ![Price Range](./Price%20Range/Range.png)
 
