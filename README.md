@@ -1,5 +1,8 @@
 # HTML-CSS-JavaScript-Mini-Project
 
+## Select Menu
+![Select Menu](./Select%20Menu/Select%20Menu.png)
+
 ## Search Bar
 ![Search Bar](./Search%20Bar/Seacrh.gif)
 
