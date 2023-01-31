@@ -1,5 +1,8 @@
 # HTML-CSS-JavaScript-Mini-Project
 
+## Dictionary App
+![Dictionary App](./Dictionary%20App/Dictionary.png)
+
 ## Select Menu
 ![Select Menu](./Select%20Menu/Select%20Menu.png)
 
