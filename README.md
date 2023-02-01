@@ -1,5 +1,8 @@
 # HTML-CSS-JavaScript-Mini-Project
 
+## Tags Box
+![Tags Box](./Tags%20%20Box/Tags.png)
+
 ## Context Menu
 ![Context Menu](./Context%20Menu/Menu.png)
 
