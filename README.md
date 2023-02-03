@@ -1,5 +1,8 @@
 # HTML-CSS-JavaScript-Mini-Project
 
+## Upload Progress Bar
+![Upload Progress Bar](./Upload%20Progress%20Bar/upload.png)
+
 ## Tweet Box
 ![Tweet Box](./Tweet%20Box/Box.png)
 
