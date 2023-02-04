@@ -1,5 +1,8 @@
 # HTML-CSS-JavaScript-Mini-Project
 
+## Palidrome Checker
+![Palidrome Checker](./Palindrome%20Checker/checker.png)
+
 ## Upload Progress Bar
 ![Upload Progress Bar](./Upload%20Progress%20Bar/upload.png)
 
