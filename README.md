@@ -1,5 +1,8 @@
 # HTML-CSS-JavaScript-Mini-Project
 
+## Weather App
+![Weather App](./Weather%20App/Weather%20.png)
+
 ## Palidrome Checker
 ![Palidrome Checker](./Palindrome%20Checker/checker.png)
 
